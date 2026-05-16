@@ -1,0 +1,9 @@
+
+> insightclaw@1.0.0 dev
+> next dev -p 3100
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3100
+- Network:       http://192.168.1.15:3100
+✓ Ready in 368ms
+[?25h
